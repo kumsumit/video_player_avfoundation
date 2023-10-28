@@ -317,7 +317,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "1d6e1c5fae93958d50ce0595ef687d8195088d21"
+      resolved-ref: "3f77202a425698dc76188933bde3738a0df4b21e"
       url: "https://github.com/kumsumit/plugin_platform_interface.git"
     source: git
     version: "2.1.6"
@@ -492,7 +492,7 @@ packages:
       path: ".."
       relative: true
     source: path
-    version: "2.4.10"
+    version: "2.5.0"
   video_player_platform_interface:
     dependency: "direct main"
     description:
@@ -554,10 +554,10 @@ packages:
     dependency: transitive
     description:
       name: win32
-      sha256: "9e82a402b7f3d518fb9c02d0e9ae45952df31b9bf34d77baf19da2de03fc2aaa"
+      sha256: "350a11abd2d1d97e0cc7a28a81b781c08002aa2864d9e3f192ca0ffa18b06ed3"
       url: "https://pub.dev"
     source: hosted
-    version: "5.0.7"
+    version: "5.0.9"
   xdg_directories:
     dependency: transitive
     description:
