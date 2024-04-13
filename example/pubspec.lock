@@ -21,10 +21,10 @@ packages:
     dependency: transitive
     description:
       name: args
-      sha256: eef6c46b622e0494a36c5a12d10d77fb4e855501a91c1b9ef9339326e58f0596
+      sha256: "7cf60b9f0cc88203c5a190b4cd62a99feea42759a7fa695010eb5de1c0b2252a"
       url: "https://pub.dev"
     source: hosted
-    version: "2.4.2"
+    version: "2.5.0"
   async:
     dependency: transitive
     description:
@@ -279,7 +279,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: b1a281afa47ef5b93baba6c53afcb6ec591f6a9b
+      resolved-ref: "464067f1292d84797110982aec8a5c694bf42ec2"
       url: "https://github.com/kumsumit/path_provider.git"
     source: git
     version: "2.1.2"
@@ -288,7 +288,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "13c5e4637a28f86fe9d8cf69d8ae88f9cfb56d77"
+      resolved-ref: "075dfaa8879cb5226a8876ae2b4c3cd91c0da24f"
       url: "https://github.com/kumsumit/path_provider_android.git"
     source: git
     version: "2.2.2"
@@ -297,7 +297,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "1ab38321e254e87e51f1a1a8ca23f6f3b57f0d03"
+      resolved-ref: "0c32fae60f23a0568754137db1bab13a8f532ba9"
       url: "https://github.com/kumsumit/path_provider_foundation.git"
     source: git
     version: "2.3.2"
@@ -315,7 +315,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: b8a8154cd6ee2c9e513412f0fa47728fe51ef323
+      resolved-ref: cef5a990738087886b5ad8ecc6a2236757a7edb9
       url: "https://github.com/kumsumit/path_provider_platform_interface.git"
     source: git
     version: "2.1.2"
@@ -324,7 +324,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "64abeda415f51397de76b2b27158c0beaf069269"
+      resolved-ref: c867dc01fd2fa9479c18002192a58af6f9b8a9df
       url: "https://github.com/kumsumit/path_provider_windows.git"
     source: git
     version: "2.2.1"
@@ -516,7 +516,7 @@ packages:
       path: ".."
       relative: true
     source: path
-    version: "2.5.6"
+    version: "2.5.7"
   video_player_platform_interface:
     dependency: "direct main"
     description:
@@ -554,10 +554,10 @@ packages:
     dependency: transitive
     description:
       name: web_socket_channel
-      sha256: "1d8e795e2a8b3730c41b8a98a2dff2e0fb57ae6f0764a1c46ec5915387d257b2"
+      sha256: "58c6666b342a38816b2e7e50ed0f1e261959630becd4c879c4f26bfa14aa5a42"
       url: "https://pub.dev"
     source: hosted
-    version: "2.4.4"
+    version: "2.4.5"
   webdriver:
     dependency: transitive
     description:
@@ -578,10 +578,10 @@ packages:
     dependency: transitive
     description:
       name: win32
-      sha256: "8cb58b45c47dcb42ab3651533626161d6b67a2921917d8d429791f76972b3480"
+      sha256: "0a989dc7ca2bb51eac91e8fd00851297cfffd641aa7538b165c62637ca0eaa4a"
       url: "https://pub.dev"
     source: hosted
-    version: "5.3.0"
+    version: "5.4.0"
   xdg_directories:
     dependency: transitive
     description:

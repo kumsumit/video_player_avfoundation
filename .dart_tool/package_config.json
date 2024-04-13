@@ -15,9 +15,9 @@
     },
     {
       "name": "args",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/args-2.4.2",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/args-2.5.0",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "async",
@@ -242,7 +242,7 @@
       "languageVersion": "3.3"
     }
   ],
-  "generated": "2024-03-19T13:00:47.680432Z",
+  "generated": "2024-04-13T17:13:08.155855Z",
   "generator": "pub",
-  "generatorVersion": "3.3.1"
+  "generatorVersion": "3.3.3"
 }
